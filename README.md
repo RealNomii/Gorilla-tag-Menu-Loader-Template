@@ -6,5 +6,5 @@
 # Credit me if you use this Template just my Username Realnomii is fine. 
 
 
-My name is Nomii
 Discord user is nomii_fn.
+Copy and paste your files into a new folder in repos
